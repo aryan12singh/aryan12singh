@@ -1,40 +1,48 @@
-## Aryan Singh
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=200&section=header&text=Aryan%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20Intern%20at%20GovTech%20%C2%B7%20Information%20Systems%20at%20SMU&descSize=16&descAlignY=58&descColor=c9d1d9" alt="Aryan Singh" width="100%" />
+</p>
 
-I'm a Year 3 Information Systems student at **Singapore Management University**, currently interning at **GovTech** (May 2026 to January 2027).
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryansingh03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:emailaryan2003@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+</p>
 
-I build full-stack and cloud applications, with a focus on backend services, event-driven microservices and infrastructure on AWS and Azure. Before GovTech, I was a Technology Development Intern at Rewardz, where I built and deployed a developer analytics platform.
+## About
 
-I care about shipping software that is well tested, clearly documented and actually used.
+I build full-stack and cloud applications, with a focus on backend services, event-driven microservices and infrastructure on AWS and Azure. I care about shipping software that is well tested, clearly documented and actually used.
 
-### Tech
+Most recently, I co-built **[WC26 Predictor](https://github.com/calebsooon/wc26-predictor)**, a private prediction league that was used actively throughout the 2026 World Cup.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+## Experience
 
-### Featured projects
+| Role | Company | Period |
+|:--|:--|:--|
+| **Software Engineer Intern** | GovTech | May 2026 ‚Äì Jan 2027 |
+| **Technology Development Intern** | Rewardz | May 2025 ‚Äì Aug 2025 |
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[WC26 Predictor](https://github.com/calebsooon/wc26-predictor)** | Private World Cup 2026 prediction league, used actively throughout the tournament. Predictions for all 104 matches, instant settlement, a live leaderboard and an automated prize pool. Installable PWA. | Next.js · TypeScript · Supabase Realtime · Tailwind · Vercel |
-| **[Study Buddy Matcher](https://github.com/aryan12singh/study-buddy-matcher)** | Matches students into study partners with a configurable strategy-based matching engine. | Java 21 · Spring Boot · React · PostgreSQL |
-| **[Smart Clinic Queue](https://github.com/decker757/Smart-Clinic-Queue-ESD)** | Polyclinic queue management platform covering booking, check-in, real-time queue status, and payments. Event-driven microservices deployed on AWS. | Vue 3 · Python · Go · RabbitMQ · PostgreSQL · AWS ECS |
-| **[ConnectSphere](https://github.com/aryan12singh/connectsphere)** | Event planning & venue booking system with multi-role approval workflows and Playwright E2E tests. | JavaScript · microservices · CI/CD |
-| **[PulseCoach](https://github.com/aryan12singh/pulsecoach)** | Self-hosted health & training dashboard pulling Apple Health, Hevy and Strava data, with optional AI coaching via Claude. | TypeScript · Docker |
-| **[SMU Events Hub](https://github.com/zhiwaits/we-love-wad2)** | Campus event and club platform with student and club dashboards, RSVPs, an event calendar and recommendations. | Vue 3 · Express.js · PostgreSQL · Google Maps API |
+## Tech Stack
 
-### Contact
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" /> <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /> <img src="https://img.shields.io/badge/Go-161b22?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-161b22?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Vue-161b22?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" /> <img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://img.shields.io/badge/Spring_Boot-161b22?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" /> <img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" /> <img src="https://img.shields.io/badge/Express-161b22?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></td>
+  </tr>
+  <tr>
+    <td><b>Data & Messaging</b></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Supabase-161b22?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" /> <img src="https://img.shields.io/badge/Redis-161b22?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis" /> <img src="https://img.shields.io/badge/RabbitMQ-161b22?style=for-the-badge&logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ" /></td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td><img src="https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZjkwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yIDE0LjVjNiA0LjUgMTQgNC41IDE5LjUgMCIgc3Ryb2tlLXdpZHRoPSIyLjYiLz48cGF0aCBkPSJNMTcuNSAxMy4ybDQgMS4zLTEuMiA0IiBzdHJva2Utd2lkdGg9IjIuMiIvPjwvc3ZnPg%3D%3D" alt="AWS" /> <img src="https://img.shields.io/badge/Azure-161b22?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImF6dXJlLW9yaWdpbmFsLWEiIHgxPSI2MC45MTkiIHkxPSI5LjYwMiIgeDI9IjE4LjY2NyIgeTI9IjEzNC40MjMiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjMTE0QThCIi8%2BPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMDY2OUJDIi8%2BPC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImF6dXJlLW9yaWdpbmFsLWIiIHgxPSI3NC4xMTciIHkxPSI2Ny43NzIiIHgyPSI2NC4zNDQiIHkyPSI3MS4wNzYiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLW9wYWNpdHk9Ii4zIi8%2BPHN0b3Agb2Zmc2V0PSIuMDcxIiBzdG9wLW9wYWNpdHk9Ii4yIi8%2BPHN0b3Agb2Zmc2V0PSIuMzIxIiBzdG9wLW9wYWNpdHk9Ii4xIi8%2BPHN0b3Agb2Zmc2V0PSIuNjIzIiBzdG9wLW9wYWNpdHk9Ii4wNSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1vcGFjaXR5PSIwIi8%2BPC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImF6dXJlLW9yaWdpbmFsLWMiIHgxPSI2OC43NDIiIHkxPSI1Ljk2MSIgeDI9IjExNS4xMjIiIHkyPSIxMjkuNTI1IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI%2BPHN0b3Agc3RvcC1jb2xvcj0iIzNDQ0JGNCIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzI4OTJERiIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxwYXRoIGQ9Ik00Ni4wOS4wMDJoNDAuNjg1TDQ0LjU0MSAxMjUuMTM3YTYuNDg1IDYuNDg1IDAgMDEtNi4xNDYgNC40MTNINi43MzNhNi40ODIgNi40ODIgMCAwMS01LjI2Mi0yLjY5OSA2LjQ3NCA2LjQ3NCAwIDAxLS44NzYtNS44NDhMMzkuOTQ0IDQuNDE0QTYuNDg4IDYuNDg4IDAgMDE0Ni4wOSAweiIgZmlsbD0idXJsKCNhenVyZS1vcmlnaW5hbC1hKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLjU4NyA0LjQ2OCkgc2NhbGUoLjkxOTA0KSIvPjxwYXRoIGQ9Ik05Ny4yOCA4MS42MDdIMzcuOTg3YTIuNzQzIDIuNzQzIDAgMDAtMS44NzQgNC43NTFsMzguMSAzNS41NjJhNS45OTEgNS45OTEgMCAwMDQuMDg3IDEuNjFoMzMuNTc0eiIgZmlsbD0iIzAwNzhkNCIvPjxwYXRoIGQ9Ik00Ni4wOS4wMDJBNi40MzQgNi40MzQgMCAwMDM5LjkzIDQuNUwuNjQ0IDEyMC44OTdhNi40NjkgNi40NjkgMCAwMDYuMTA2IDguNjUzaDMyLjQ4YTYuOTQyIDYuOTQyIDAgMDA1LjMyOC00LjUzMWw3LjgzNC0yMy4wODkgMjcuOTg1IDI2LjEwMWE2LjYxOCA2LjYxOCAwIDAwNC4xNjUgMS41MTloMzYuMzk2bC0xNS45NjMtNDUuNjE2LTQ2LjUzMy4wMTFMODYuOTIyLjAwMnoiIGZpbGw9InVybCgjYXp1cmUtb3JpZ2luYWwtYikiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC41ODcgNC40NjgpIHNjYWxlKC45MTkwNCkiLz48cGF0aCBkPSJNOTguMDU1IDQuNDA4QTYuNDc2IDYuNDc2IDAgMDA5MS45MTcuMDAySDQ2LjU3NWE2LjQ3OCA2LjQ3OCAwIDAxNi4xMzcgNC40MDZsMzkuMzUgMTE2LjU5NGE2LjQ3NiA2LjQ3NiAwIDAxLTYuMTM3IDguNTVoNDUuMzQ0YTYuNDggNi40OCAwIDAwNi4xMzYtOC41NXoiIGZpbGw9InVybCgjYXp1cmUtb3JpZ2luYWwtYykiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC41ODcgNC40NjgpIHNjYWxlKC45MTkwNCkiLz48L3N2Zz4K" alt="Azure" /> <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" /> <img src="https://img.shields.io/badge/GitHub_Actions-161b22?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Vercel-161b22?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></td>
+  </tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryansingh03)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emailaryan2003@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:0f172a&height=100&section=footer" alt="" width="100%" />
