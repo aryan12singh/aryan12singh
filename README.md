@@ -11,14 +11,14 @@
 
 I build full-stack and cloud applications, with a focus on backend services, event-driven microservices and infrastructure on AWS and Azure. I care about shipping software that is well tested, clearly documented and actually used.
 
-Most recently, I co-built **[WC26 Predictor](https://github.com/calebsooon/wc26-predictor)**, a private prediction league that was used actively throughout the 2026 World Cup.
+Most recently, I built **[WC26 Predictor](https://github.com/calebsooon/wc26-predictor)**, a private prediction league that was used actively throughout the 2026 World Cup.
 
 ## Experience
 
 | Role | Company | Period |
 |:--|:--|:--|
-| **Software Engineer Intern** | GovTech | May 2026 ‚Äì Jan 2027 |
-| **Technology Development Intern** | Rewardz | May 2025 ‚Äì Aug 2025 |
+| **Software Engineer Intern** | GovTech | May 2026 - Jan 2027 |
+| **Technology Development Intern** | Rewardz | May 2025 - Aug 2025 |
 
 ## Tech Stack
 
